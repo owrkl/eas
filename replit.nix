@@ -5,5 +5,6 @@
         pkgs.caddy
         pkgs.tmux
         pkgs.jre8
+        pkgs.openjdk11
     ];
 }
